@@ -119,7 +119,7 @@ export default {
         data:"adadadadadaadad"
       }
     }).then((res)=>{
-      //请求成功后执行的函数
+      //请求成功后执行的函数s
       console.log(res)
     }
     ,(err)=>{
